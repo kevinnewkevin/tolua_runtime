@@ -1,0 +1,3 @@
+[submodule "luajit-2.1"]
+	path = luajit-2.1
+	url = ./luajit-2.1/.git
